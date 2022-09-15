@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4fe0224f-7a38-438f-8234-705c67965cc2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com.factory/DriverFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com.pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com.pages/ShoppingCartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com.util/ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com.util/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com.util/ElementUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/AppHooks/ApplicationHooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/data/json/browserCap.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lib/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/parallel/HomePageSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/parallel/ShoppinhCartPageSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/parallel/parallelRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/steps/common/BrowserSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testrunners/MyTestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/config/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/cucumber.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/extent-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/extent.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/parallel/LaunchHomePage.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output-thread/chosen-sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output-thread/chosen.jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output-thread/chosen.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output-thread/chosen.override.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output-thread/formatter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output-thread/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output-thread/jquery-3.5.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output-thread/report.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output-thread/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output-thread/vis.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output-thread/vis.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output-thread/vis.override.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/SparkReport/Spark.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/embedded1.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2ED0Urj39KjvEkrHeUdwSRnovW2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "openjdk-18",
+    "last_opened_file_path": "/Users/vicky/Documents/Appium/Sonar/src/main/com.factory",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/com.factory" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/parallel" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.parallelRun">
+    <configuration name="Scenario: Scenario_01_Verify item added to cart is displayed in the cart (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/parallel/LaunchHomePage.feature" />
+      <option name="GLUE" value="AppHooks lib parallel" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Sonar" />
+      <option name="NAME_FILTER" value="^Scenario_01_Verify item added to cart is displayed in the cart$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Scenario_01_Verify item added to cart is displayed in the cart$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Scenario_01_Verify item added to cart is displayed in the cart" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Scenario_01_Verify item added to cart is displayed in the cart" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/AppFeatures/LaunchHomePage.feature" />
+      <option name="GLUE" value="AppHooks stepdefinition lib" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Sonar" />
+      <option name="NAME_FILTER" value="^Scenario_01_Verify item added to cart is displayed in the cart$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Scenario_01_Verify item added to cart is displayed in the cart$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Scenario_01_Verify item added to cart is displayed in the cart" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Scenario_02_Verify error messages when logging in without username or password" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/AppFeatures/LaunchHomePage.feature" />
+      <option name="GLUE" value="AppHooks stepdefinition lib" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Sonar" />
+      <option name="NAME_FILTER" value="^Scenario_02_Verify error messages when logging in without username or password$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Scenario_02_Verify error messages when logging in without username or password$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Scenario_02_Verify error messages when logging in without username or password" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sonar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testrunners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testrunners" />
+      <option name="MAIN_CLASS_NAME" value="testrunners.MyTestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="parallelRun" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Sonar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="parallel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="parallel" />
+      <option name="MAIN_CLASS_NAME" value="parallel.parallelRun" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber Java.Scenario: Scenario_01_Verify item added to cart is displayed in the cart" />
+      <item itemvalue="Cucumber Java.Scenario: Scenario_01_Verify item added to cart is displayed in the cart (1)" />
+      <item itemvalue="Cucumber Java.Scenario: Scenario_02_Verify error messages when logging in without username or password" />
+      <item itemvalue="JUnit.MyTestRunner" />
+      <item itemvalue="TestNG.parallelRun" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.parallelRun" />
+        <item itemvalue="Cucumber Java.Scenario: Scenario_01_Verify item added to cart is displayed in the cart (1)" />
+        <item itemvalue="JUnit.MyTestRunner" />
+        <item itemvalue="Cucumber Java.Scenario: Scenario_01_Verify item added to cart is displayed in the cart" />
+        <item itemvalue="Cucumber Java.Scenario: Scenario_02_Verify error messages when logging in without username or password" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fe0224f-7a38-438f-8234-705c67965cc2" name="Changes" comment="" />
+      <created>1662114869317</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662114869317</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com.pages/HomePage.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com.pages/HomePage.java</url>
+          <line>105</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Sonar$Feature__LaunchBrowser.ic" NAME="Feature: LaunchBrowser Coverage Results" MODIFIED="1662165116709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cucumber.api.cli.*</FILTER>
+    </SUITE>
+  </component>
+</project>
